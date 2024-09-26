@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+awdawdadwada
+git checkout -b daniel_jimram_v1
+=======
+adsadasdasdasda
+git checkout -b daniel_jimram_v1
+>>>>>>> a6493d1dffac4eb18e52d7036343b48bf2a87ef4
